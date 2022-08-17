@@ -30,7 +30,7 @@
 </p>
 
 
-<p> <img align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=muhammad-hassan-farid&show_icons=true&locale=en" alt="muhammad-hassan-farid" /><img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-hassan-farid&show_icons=true&locale=en&layout=compact" alt="muhammad-hassan-farid" />
+<p> <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=muhammad-hassan-farid&show_icons=true&locale=en" alt="muhammad-hassan-farid" /><img align="right" width="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-hassan-farid&show_icons=true&locale=en&layout=compact" alt="muhammad-hassan-farid" />
 </p>
 
 
