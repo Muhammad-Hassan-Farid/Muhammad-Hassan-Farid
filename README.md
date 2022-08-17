@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="800" height="500" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="center" alt="coding" width="800" height="450" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Farid</h1>
 <h3 align="center">A passionate programmer. A dedicated and energetic team player seeking to expand and develop my personal skills, experience, knowledge and talents for a successful career.</h3>
 
