@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Farid</h1>
 <h3 align="center">A passionate programmer. A dedicated and energetic team player seeking to expand and develop my personal skills, experience, knowledge and talents for a successful career.</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-hassan-farid&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-hassan-farid" /> </p>
+<div align="right">
+<img alt="coding" align="right" height="260" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div><p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-hassan-farid&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-hassan-farid" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hassank59696363" target="blank"><img src="https://img.shields.io/twitter/follow/hassank59696363?logo=twitter&style=for-the-badge" alt="hassank59696363" /></a> </p>
 
@@ -16,8 +16,7 @@
 - 👨‍🏫 I’m a **Open-Source contributer and a Programming Teacher**
 - 💬 Ask me for help about **HTML, CSS, Javascript, Data-Structures, Bootstrap and C/C++.**
 - 📫 How to reach me **hassan.khan.wazir12@gmail.com**
-
-
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
