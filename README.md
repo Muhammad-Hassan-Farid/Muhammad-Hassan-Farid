@@ -7,9 +7,8 @@
 
 <div align="right">
 <img alt="coding" align="right" height="260" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div><p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-hassan-farid&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-hassan-farid" /> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/hassank59696363" target="blank"><img src="https://img.shields.io/twitter/follow/hassank59696363?logo=twitter&style=for-the-badge" alt="hassank59696363" /></a> </p>
 
 - 👨‍🎓 I'm currently studying CS in **<a href="https://www.hamdard.edu.pk/">Hamdard University Islamabad**</a>
 - 👨‍💻 I'm presently learning **Front-end Web development**
@@ -25,7 +24,17 @@
 <a href="https://instagram.com/hassankhan.2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassankhan.2001" height="30" width="40" /></a>
 </p>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=muhammad-hassan-farid&show_icons=true&locale=en" alt="muhammad-hassan-farid" /> <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-hassan-farid&show_icons=true&locale=en&layout=compact" alt="muhammad-hassan-farid">
+<!--Github stats!-->
+  <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
+<br>
+<div>
+  <a href="https://github.com/Daoud-Hussain">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&langs_count=7&theme=dracula"/>
+    
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=These+are+my+GitHub+stats..">
+</div> <br>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,8 +43,23 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
+  
+ <!--Contribution Graph Section!-->
+### 📈 Contribution Graph
+ 
+   <br/>
+<a href="https://github.com/daoud-hussain"><img alt="Muhammad-Hassan-Farid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Hassan-Farid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
   
 <!--Snake Animation!-->
 ### 🐍 A Snake Eating Away my Contributions
 ![snake gif](https://github.com/Muhammad-Hassan-Farid/Muhammad-Hassan-Farid/blob/output/github-contribution-grid-snake.svg)
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
+    
+
+<!--Profile view counter API!-->
+<p align="left"> <img src="https://gpvc.arturio.dev/Muhammad-Hassan-Farid" alt="acier" /> </p>
