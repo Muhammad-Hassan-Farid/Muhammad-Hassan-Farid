@@ -3,7 +3,7 @@
 </div> <br>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Farid</h1>
-<h3 align="center">I am a passionated programmer, a dedicated and energetic team player seeking to expand and develop my personal skills, experience, knowledge and talent for a successful career.</h3>
+<h3 align="center">I am a passionate programmer, and a dedicated and energetic team player seeking to expand and develop my personal skills, experience, knowledge, and talents for a successful career. I am a Front-end Web Developer(HTML, CSS, Bootstrap, JavaScript) and also have a strong grip on the C++ programming language. I am also good at problem-solving.</h3>
 
 <div align="right">
 <img alt="coding" align="right" height="260" width="300"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
