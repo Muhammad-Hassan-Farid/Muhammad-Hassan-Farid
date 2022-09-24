@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="coding" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img alt="coding" width="1000" height="500" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
 </div> <br>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Farid</h1>
