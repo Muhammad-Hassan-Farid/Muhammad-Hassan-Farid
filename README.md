@@ -51,7 +51,7 @@
  <!--Contribution Graph Section!-->
 ### 📈 Contribution Graph
  
-  <br/>
+ <br/>
 <a href="https://github.com/Muhammad-Hassan-Farid"><img alt="Muhammad-Hassan-Farid Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Hassan-Farid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
