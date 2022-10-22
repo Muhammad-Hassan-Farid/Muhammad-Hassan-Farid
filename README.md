@@ -65,4 +65,6 @@
     
 
 <!--Profile view counter API!-->
-<p align="left"> <img src="https://gpvc.arturio.dev/Muhammad-Hassan-Farid" alt="acier" /> </p>
+<p align="left">
+  <img src="https://gpvc.arturio.dev/Muhammad-Hassan-Farid" alt="acier" />
+</p>
