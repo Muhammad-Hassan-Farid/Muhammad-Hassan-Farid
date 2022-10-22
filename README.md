@@ -19,10 +19,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://twitter.com/hassank59696363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassank59696363" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-hassan-farid-0886a01b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hassan-farid-0886a01b6" height="30" width="40" /></a>
-<a href="https://instagram.com/hassankhan.2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassankhan.2001" height="30" width="40" /></a>
-<a href="http://www.hassanfarid.com/" target="_blank"> <img width="40" align="center" src="https://user-images.githubusercontent.com/87219816/170118695-dbda0e7b-11b1-4b06-a246-23abb6e08ea4.png" />  </a>
+<a href="https://twitter.com/hassank59696363" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hassank59696363" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/muhammad-hassan-farid-0886a01b6" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hassan-farid-0886a01b6" height="30" width="40" />
+ </a>
+<a href="https://instagram.com/hassankhan.2001" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hassankhan.2001" height="30" width="40" />
+ </a>
+<a href="http://www.hassanfarid.com/" target="_blank"> 
+  <img width="40" align="center" src="https://user-images.githubusercontent.com/87219816/170118695-dbda0e7b-11b1-4b06-a246-23abb6e08ea4.png" /> 
+ </a>
 </p>
 
 <br>
