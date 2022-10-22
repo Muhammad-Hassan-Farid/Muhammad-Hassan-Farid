@@ -28,7 +28,9 @@
 <br>
 
 <!--Github stats!-->
-  <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> 
+  <p>
+  • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> 
+  </p> 
 
 <div>
   <a href="https://github.com/Muhammad-Hassan-Farid">
