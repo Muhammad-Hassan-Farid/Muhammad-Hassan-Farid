@@ -88,6 +88,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
   
+  
 <!--Snake Animation!-->
 ### 🐍 A Snake Eating Away my Contributions
 ![snake gif](https://github.com/Muhammad-Hassan-Farid/Muhammad-Hassan-Farid/blob/output/github-contribution-grid-snake.svg)
