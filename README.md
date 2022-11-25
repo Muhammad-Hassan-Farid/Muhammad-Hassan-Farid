@@ -18,7 +18,6 @@
 - 💬 Ask me for help about **HTML, CSS, Javascript, Data-Structures, Bootstrap and C/C++.**
 - 📫 How to reach me **hassan.khan.wazir12@gmail.com**
 
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
