@@ -38,22 +38,29 @@
 
 <br>
 
-<!--Github stats!-->
-  <p>
-  • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> 
-  </p> 
+<!--Github stats!-->  
+  <!--testing-->
 
+   <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
+<br>
 <div>
 
-  <a href="https://github.com/Muhammad-Hassan-Farid">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&langs_count=7&theme=dracula"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=These+are+my+GitHub+stats..">
+<a href="https://github.com/Muahammad-Hassan-Farid">
+  <img height="150em " src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-</div> 
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+	</a>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats..">
+
+  <!--Testing-->
   
- <br>
-
+  
 <h3 align="left">Languages and Tools:</h3>
   
 <p align="left"> 
@@ -84,7 +91,6 @@
  <br/>
   
 <a href="https://github.com/Muhammad-Hassan-Farid"><img alt="Hassan Farid Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Muhammad-Hassan-Farid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color0000FF&width=500&lines=This+is+my+contribution+graph..">
   
   
