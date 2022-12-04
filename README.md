@@ -41,20 +41,14 @@
 <!--Github stats!-->  
   <!--testing-->
 
-   <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> <br>
-<br>
+   <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> 
+
 <div>
 
 <a href="https://github.com/Muahammad-Hassan-Farid">
   <img height="150em " src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats..">
 
