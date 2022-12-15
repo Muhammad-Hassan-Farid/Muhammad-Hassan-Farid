@@ -39,7 +39,7 @@
 <br>
 
 <!--Github stats!-->  
-  <!--testing-->
+
 
    <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> 
 
@@ -52,7 +52,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats..">
 
-  <!--Testing-->
   
   
 <h3 align="left">Languages and Tools:</h3>
