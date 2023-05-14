@@ -14,9 +14,10 @@
 
 
 - 👨‍🎓 I'm currently studying CS in **<a href="https://www.hamdard.edu.pk/">Hamdard University Islamabad**</a>
-- 👨‍💻 I'm presently learning **Front-end Web development**
+- 👨‍💻 I'm a **Front-end Web development**
+- 💻 I'm presently learning **Data Analytics**
 - 👨‍🏫 I’m a **Open-Source contributer and a Programming Teacher**
-- 💬 Ask me for help about **HTML, CSS, Javascript, Data-Structures, Bootstrap and C/C++.**
+- 💬 Ask me for help about **HTML, CSS, Javascript, Data-Structures, Bootstrap, C/C++, Python, Data Science and Data Analytics**
 - 📫 How to reach me **hassan.khan.wazir12@gmail.com**
 
 
