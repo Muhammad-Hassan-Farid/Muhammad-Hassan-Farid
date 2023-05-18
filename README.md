@@ -19,7 +19,7 @@
 - 👨‍💻 I'm a **Front-end Web development**
 - 💻 I'm presently learning **Data Analytics**
 - 👨‍🏫 I’m a **Open-Source contributer and a Programming Teacher**
-- 💬 Ask me for help about **HTML, CSS, Javascript, Data-Structures, Bootstrap, C/C++, Python, Data Science and Data Analytics**
+- 💬 Ask me for help about ** Python, Data Science and Data Analytics, HTML, CSS, Javascript, Data-Structures, Bootstrap, C/C++ **
 - 📫 How to reach me **hassan.khan.wazir12@gmail.com**
 
 
