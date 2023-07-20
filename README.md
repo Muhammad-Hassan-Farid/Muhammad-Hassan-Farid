@@ -7,6 +7,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Farid </h1>
+<p align='center'>
+ <a href="https://github.com/Muhammad-Hassan-Farid"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Enthusiast;Data+Analyst;Aspiring+Deep+Learning+Practitioner&center=true&width=500&height=50"></a>
+</p>
 <h3 align="center">I am a passionate programmer, and a dedicated and energetic team player seeking to expand and develop my personal skills, experience, knowledge, and talents for a successful career.</h3>
 
 <!--
@@ -16,10 +19,10 @@
 -->
 
 - 👨‍🎓 I'm currently studying CS in **<a href="https://www.hamdard.edu.pk/">Hamdard University Islamabad**</a>
-- 👨‍💻 I'm a **Front-end Web development**
-- 💻 I'm presently learning **Data Analytics**
-- 👨‍🏫 I’m a **Open-Source contributer and a Programming Teacher**
-- 💬 Ask me for help about ** Python, Data Science and Data Analytics, HTML, CSS, Javascript, Data-Structures, Bootstrap, C/C++ **
+- 👨‍💻 I'm a **Data Analyst**
+- 💻 I'm presently learning **Machine Learning**
+- 👨‍🏫 I’m a **Open-Source contributer**
+- 💬 Ask me for help with ** Python, Data Science and Data Analytics, HTML, CSS, Bootstrap, Javascript, Data-Structures, Bootstrap, C/C++**
 - 📫 How to reach me **hassan.khan.wazir12@gmail.com**
 
 
