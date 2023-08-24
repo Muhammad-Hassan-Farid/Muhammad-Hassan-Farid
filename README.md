@@ -59,7 +59,7 @@
   
   
 <h3 align="left"> 🛠 Languages and Tools:</h3>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -78,19 +78,9 @@
 
  </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F0E68C&width=500&lines=These+are+the+tools+that+I+am+working+with..">
+
   
-  
-  
-<!--Snake Animation!-->
-### 🐍 A Snake Eating Away my Contributions
-![snake gif](https://github.com/Muhammad-Hassan-Farid/Muhammad-Hassan-Farid/blob/output/github-contribution-grid-snake.svg)
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
     
-
-<!--Profile view counter API!-->
-<p align="left">
-  <img src="https://gpvc.arturio.dev/Muhammad-Hassan-Farid" alt="acier" />
-</p>
