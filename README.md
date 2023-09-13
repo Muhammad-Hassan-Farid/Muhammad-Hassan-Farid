@@ -19,8 +19,8 @@
 -->
 
 - 👨‍🎓 I'm currently studying CS in **<a href="https://www.hamdard.edu.pk/">Hamdard University Islamabad**</a>
-- 👨‍💻 I'm a **Data Analyst**
-- 💻 I'm presently learning **Machine Learning**
+- 👨‍💻 I'm a **Data Scientist**
+- 💻 I'm presently learning **Deep Lerning and Ai**
 - 👨‍🏫 I’m a **Open-Source contributer**
 - 💬 Ask me for help with ** Python, Data Science and Data Analytics, HTML, CSS, Bootstrap, Javascript, Data-Structures, Bootstrap, C/C++**
 - 📫 How to reach me **hassan.khan.wazir12@gmail.com**
@@ -42,19 +42,9 @@
 
 <br>
 
-<!--Github stats!-->  
 
 
-   <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> 
 
-<div>
-
-<a href="https://github.com/Muahammad-Hassan-Farid">
-  <img height="150em " src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats..">
 
   
   
@@ -80,7 +70,17 @@
 
 
   
+<!--Github stats!-->  
 
+
+   <p> • <img src="github-stats.gif" width="20">  <b>  My GitHub Stats! </b> </p> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=FFFFFF&width=500&lines=These+are+my+GitHub+stats..">
+<div>
+
+<a href="https://github.com/Muahammad-Hassan-Farid">
+  <img height="150em " src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=27e650c4&width=500&lines=Thanks+For+Visiting+my+Profile..">
     
