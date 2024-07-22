@@ -10,7 +10,7 @@
 <p align='center'>
  <a href="https://github.com/Muhammad-Hassan-Farid"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Data+Analyst;Data+Scientist;Aspiring+Deep+Learning+Practitioner&center=true&width=500&height=50"></a>
 </p>
-<h3 align="center">Highly motivated and dedicated individual proficient in Python, Data Analysis, Visualization, Machine Learning, Deep Learning, Computer Vision, and NLP, I excel at solving complex problems. With a strong statistical background and a passion for continuous learning, I'm eager to contribute to advancements in data science and tackle new challenges in the field.</h3>
+<h3 align="center">Python Developer with web development and machine learning skills, adept at creating dynamic and user-friendly web applications and seeking to leverage expertise in modern web technologies to develop seamless, efficient, and visually appealing interfaces while maintaining robust back-end functionality..</h3>
 
 <!--
 <div align="right">
