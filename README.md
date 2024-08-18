@@ -19,7 +19,7 @@
 -->
 
 - 👨‍🎓 I'm a recent graduate from **<a href="https://www.hamdard.edu.pk/">Hamdard University Islamabad** with a Bachelor of Scinece in Computer Science degree.</a>
-- 👨‍💻 I'm a **Data Scientist**
+- 👨‍💻 I'm a **Data Scientist, Computer Vision Engineer**
 - 👨‍🏫 I’m a **Open-Source contributer**
 - 💬 Ask me for help with ** Python, Data Science and Data Analytics, Data, Big-Bigdata, Machine Learning, Deep Learning, NLP and Computer Vision**
 - 📫 How to reach me **hassan.khan.wazir12@gmail.com**
