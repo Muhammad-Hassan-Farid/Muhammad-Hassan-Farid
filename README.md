@@ -104,7 +104,7 @@ I'm a passionate **Data Scientist** and **AI Engineer** with expertise in transf
 
 ## 🏆 Achievements & Highlights
 
-- 🎓 **Computer Science Student** at Hamdard University Islamabad
+- 🎓 Completed **BS Computer Science** from Hamdard University Islamabad and pursing **MS in Artificial Intelligence** from Comsats University Islamabad.
 - 🧠 **Healthcare AI Researcher** - Developing AI solutions for medical diagnosis
 - 📈 **Data Science Enthusiast** - Turning data into actionable insights
 - 🔬 **Machine Learning Practitioner** - Building intelligent systems
