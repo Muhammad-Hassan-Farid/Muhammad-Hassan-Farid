@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Scientist** and **AI Engineer** with expertise in transforming complex data into actionable insights. Currently pursuing my studies at Comsats University Islamabad, I'm dedicated to pushing the boundaries of artificial intelligence and machine learning.
+I'm a **Data Scientist** and **AI Engineer** with expertise in transforming complex data into actionable insights. Currently pursuing my studies at Comsats University Islamabad, I'm dedicated to pushing the boundaries of artificial intelligence and machine learning.
 
 - 🔭 I'm currently working on **AI-powered healthcare solutions and Advanced RAG(Retrieval Augmented Generation)**
 - 🌱 I'm persuing MS in Artifical Intellegence at **Comsats University Islamabad**
