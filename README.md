@@ -34,6 +34,7 @@ A strong interest in research and passionate about advancing the frontiers of AI
 Annual Scientific Meeting European Society for Magnetic Resonance in Medicine and Biology
 (ESMRMB 2025) in Marseille, France on 08-11 Oct 2025.*
 Presented at the **41st Annual Scientific Meeting European Society for Magnetic Resonance in Medicine and Biology (ESMRMB 2025)**, Marseille, France (Oct 8–11, 2025).
+[Link](https://rdcu.be/eL630)
 
 ---
 
