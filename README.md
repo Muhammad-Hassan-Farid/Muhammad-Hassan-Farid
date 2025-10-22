@@ -1,9 +1,9 @@
 <div align="center">
-<h1>Hi there, I'm Muhammad Hassan Farid! 👋</h1>
+<h1>Hi, I'm Muhammad Hassan Farid! 👋</h1>
 </div>
  
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Engineer;Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Researcher;Data+Scientist;AI+Engineer;Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing" alt="Typing SVG" />
 </div>
 
 
@@ -15,16 +15,25 @@
 
 ---
 
-## 🚀 About Me
+## About Me
+A strong interest in research and passionate about advancing the frontiers of AI, Deep Learning, Computer Vision, NLP, Generative AI, LLMs, and Retrieval-Augmented Generation (RAG). I thrive on solving complex problems, building intelligent systems, and conducting impactful research.
 
-I'm a **Data Scientist** and **AI Engineer** with expertise in transforming complex data into actionable insights. Currently pursuing Master in AI at Comsats University Islamabad, I'm dedicated to pushing the boundaries of artificial intelligence and machine learning.
+## What I Do
 
-- 🔭 I'm currently working on **AI-powered healthcare solutions and Advanced RAG(Retrieval Augmented Generation)**
-- 🌱 I'm persuing MS in Artifical Intellegence at **Comsats University Islamabad**
-- 👯 I'm looking to collaborate on **Open Source ML Projects**
-- 💬 Ask me about **Data Science, Machine Learning, Computer Vision**
-- 📫 How to reach me: Connect with me on [Kaggle](https://www.kaggle.com/hassanfarid004)
-- ⚡ Fun fact: I love turning data into stories that drive decisions!
+- **Research:** Pushing new boundaries in machine learning and AI applications
+- **Engineering:** Building data-driven solutions and deploying real-world AI systems
+- **Collaboration:** Always open to working with passionate minds on innovative projects
+- **Fun fact:** I love turning data into stories that drive decisions!
+---
+
+## Featured Publication
+
+**Enhancing Conventional CNNs with Compound Scaling for Brain Tumor Detection in MRI**  
+*Muhammad Hassan Farid, Muhammad Adnan Nasim, Muhammad Abdullah Umar, Usman Javed
+“Enhancing Conventional CNNs with Compound Scaling for Brain Tumor Detection in MRI” in 41th
+Annual Scientific Meeting European Society for Magnetic Resonance in Medicine and Biology
+(ESMRMB 2025) in Marseille, France on 08-11 Oct 2025.*
+Presented at the **41st Annual Scientific Meeting European Society for Magnetic Resonance in Medicine and Biology (ESMRMB 2025)**, Marseille, France (Oct 8–11, 2025).
 
 ---
 
