@@ -16,7 +16,7 @@
 ---
 
 ## About Me
-A strong interest in research and passionate about advancing the frontiers of AI, Deep Learning, Computer Vision, NLP, Generative AI, LLMs, and Retrieval-Augmented Generation (RAG). I thrive on solving complex problems, building intelligent systems, and conducting impactful research.
+“AI Researcher with a strong interest for exploring and developing intelligent, human-centered AI solutions. My research area lies at the intersection of Machine Learning, Computer Vision and Natural Language Processing, where I aim to contribute to the advancing AI technologies through innovative research, applied experiments and interdisciplinary collaboration.”
 
 ## What I Do
 
