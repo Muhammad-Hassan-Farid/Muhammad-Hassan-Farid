@@ -26,7 +26,7 @@
 - **Fun fact:** I love turning data into stories that drive decisions!
 ---
 
-## Featured Publication
+## Publication
 
 **Enhancing Conventional CNNs with Compound Scaling for Brain Tumor Detection in MRI**  
 *Muhammad Hassan Farid, Muhammad Adnan Nasim, Muhammad Abdullah Umar, Usman Javed
