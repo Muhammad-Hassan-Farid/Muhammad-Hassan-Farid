@@ -20,10 +20,10 @@
 
 ## What I Do
 
-- **Research:** Pushing new boundaries in machine learning and AI applications
-- **Engineering:** Building data-driven solutions and deploying real-world AI systems
-- **Collaboration:** Always open to working with passionate minds on innovative projects
-- **Fun fact:** I love turning data into stories that drive decisions!
+- **A Research** pushing new boundaries in machine learning and AI applications
+- **An AI Engineering** building data-driven solutions and deploying real-world AI systems
+- **A Collaborator** always open to working with passionate minds on innovative projects
+- **Fun fact** that I love turning data into stories that drive decisions!
 ---
 
 ## Publication
