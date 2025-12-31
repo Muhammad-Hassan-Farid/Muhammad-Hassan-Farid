@@ -101,15 +101,10 @@ Presented at the **41st Annual Scientific Meeting European Society for Magnetic 
 ---
 
 ## 📊 GitHub Statistics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-Farid&theme=tokyonight&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Muhammad-Hassan-Farid&theme=prussian&hide_border=false" />
 </div>
 
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
