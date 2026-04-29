@@ -1,177 +1,275 @@
 <div align="center">
-<h1>Hi, I'm Muhammad Hassan Farid! 👋</h1>
-</div>
- 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=AI+Researcher;Data+Scientist;AI+Engineer;Machine+Learning;Deep+Learning;Computer+Vision;Natural+Language+Processing" alt="Typing SVG" />
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:0a0a2e,55:3d1a78,80:6e2fff,100:0d1117&height=400&section=header&text=Muhammad%20Hassan%20Farid&fontSize=48&fontColor=e0d7ff&fontAlignY=52&fontStyle=bold&desc=AI%20Researcher%20%20%C2%B7%20%20Computer%20Vision%20Engineer%20%20%C2%B7%20%20Islamabad%2C%20PK%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=65&descSize=17&descColor=00e5ff&animation=fadeIn&fontFamily=JetBrains+Mono" width="100%"/>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🎓-Comsats_University_Islamabad-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📍-Islamabad,_Pakistan-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔬-Data_Scientist-purple?style=for-the-badge" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Senior+CV+Developer+%40+Visual+Computing+Technologies;MS+Artificial+Intelligence+%E2%80%94+COMSATS+University;Medical+AI+%7C+Computer+Vision+%7C+RAG+%7C+LLMs;2%C3%97+Peer-Reviewed+Published+Researcher;Building+AI+That+Actually+Matters+%F0%9F%9A%80" />
 
----
+<br/>
 
-## About Me
-“AI Researcher with a strong interest for exploring and developing intelligent, human-centered AI solutions. My research area lies at the intersection of Machine Learning, Computer Vision and Natural Language Processing, where I aim to contribute to the advancing AI technologies through innovative research, applied experiments and interdisciplinary collaboration.”
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Hassan-Farid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan-farid)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hassanfarid004)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0177-5869)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhassanfarid04@gmail.com)
 
-## What I Do
+<br/>
 
-- **A Research** pushing new boundaries in machine learning and AI applications
-- **An AI Engineering** building data-driven solutions and deploying real-world AI systems
-- **A Collaborator** always open to working with passionate minds on innovative projects
-- **Fun fact** that I love turning data into stories that drive decisions!
----
-
-## Publication
-
-**Enhancing Conventional CNNs with Compound Scaling for Brain Tumor Detection in MRI**  
-*Muhammad Hassan Farid, Muhammad Adnan Nasim, Muhammad Abdullah Umar, Usman Javed
-“Enhancing Conventional CNNs with Compound Scaling for Brain Tumor Detection in MRI” in 41th
-Annual Scientific Meeting European Society for Magnetic Resonance in Medicine and Biology
-(ESMRMB 2025) in Marseille, France on 08-11 Oct 2025.*
-Presented at the **41st Annual Scientific Meeting European Society for Magnetic Resonance in Medicine and Biology (ESMRMB 2025)**, Marseille, France (Oct 8–11, 2025).
-[Link](https://rdcu.be/eL630)
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### Data Analysis & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Development Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Hassan-Farid&color=58a6ff&style=flat-square&label=Profile+Views)&nbsp;
+![Followers](https://img.shields.io/github/followers/Muhammad-Hassan-Farid?style=flat-square&color=3fb950&labelColor=161b22&label=Followers)&nbsp;
+![Stars](https://img.shields.io/github/stars/Muhammad-Hassan-Farid?style=flat-square&color=e3b341&labelColor=161b22&label=Total+Stars)
 
 </div>
 
 ---
 
-## 🎯 Areas of Expertise
+```python
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# $ python3 whoami.py
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<table align="center">
+class MuhammadHassanFarid:
+    role      = "AI Researcher  ·  Senior Computer Vision Developer"
+    location  = "Islamabad, Pakistan 🇵🇰"
+    education = {
+        "MS Artificial Intelligence" : "COMSATS University  (2024 – Present)",
+        "BS Computer Science"        : "Hamdard University  (2020 – 2024)",
+    }
+    research  = ["Medical Imaging", "RAG & Agentic AI", "Real-Time CV", "LLMs", "Federated Learning"]
+    currently = "Senior CV Developer @ Visual Computing Technologies"
+    open_to   = "Research Collaborations & Impactful Opportunities"
+```
+
+---
+
+## 🧠 About Me
+
+> I build AI that has a real-world impact — from detecting tumors in MRI scans to deploying production RAG systems.
+> My work sits at the intersection of **Computer Vision**, **Medical AI**, and **Large Language Models**.
+> I believe in shipping, publishing, and constantly pushing the boundary of what's possible with Python and a GPU.
+
+<table>
 <tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
-<br><strong>Machine Learning</strong>
-<br>Supervised & Unsupervised Learning
+<td>🔬 <b>Research</b></td><td>Medical AI · Federated Learning · NLP</td>
+</tr>
+<tr>
+<td>👁️ <b>Vision</b></td><td>Detection · Segmentation · Tracking · Real-Time CV</td>
+</tr>
+<tr>
+<td>🤖 <b>LLMs</b></td><td>RAG Pipelines · Agentic AI · LangChain · OpenAI API</td>
+</tr>
+<tr>
+<td>🏥 <b>Healthcare AI</b></td><td>MRI · CT Scan · Skin · Lung Cancer Diagnostics</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<img align="right" src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-3fb950?style=flat-square"/>
+
+```
+ Mar 2026 – Now     ●  Senior Computer Vision Developer
+                       Visual Computing Technologies  ·  Remote
+
+ Nov 2024 – Now     ●  Lab Engineer
+                       Abasyn University Islamabad Campus
+
+ Feb 2025 – Feb 2026   Research & Development Engineer
+                       UTech Innovative Solutions  ·  Hong Kong, Remote
+
+ May – Jun 2024        Data Scientist & Analyst II
+                       Prodigy InfoTech  ·  Remote
+```
+
+---
+
+## 📝 Publications
+
+<table>
+<tr>
+<td align="center" width="56"><img src="https://img.shields.io/badge/2026-58a6ff?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+<td>
+<b>Human Capital and Well-Being Meter Based on Federated Learning Powered Sentiment Analysis</b><br>
+<sub>Shaheer · Nazar · Arooj · <b>Hassan Farid</b> · Inam-Ur-Rehman · Riaz · Malik · Abbas · Ishaq</sub><br>
+<sub>📄 <i>International Journal of Social Sciences Bulletin</i> · <a href="https://doi.org/10.5281/zenodo.18513303"><code>DOI 10.5281/zenodo.18513303</code></a></sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/brain.png"/>
-<br><strong>Deep Learning</strong>
-<br>Neural Networks & CNNs
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/camera.png"/>
-<br><strong>Computer Vision</strong>
-<br>Image Processing & Analysis
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/speech-bubble.png"/>
-<br><strong>NLP</strong>
-<br>Text Analysis & Processing
+</tr>
+<tr>
+<td align="center" width="56"><img src="https://img.shields.io/badge/2025-3fb950?style=flat-square&labelColor=0d1117&color=3fb950"/></td>
+<td>
+<b>Enhancing Conventional CNNs with Compound Scaling for Brain Tumor Detection in MRI</b><br>
+<sub><b>Hassan Farid</b> · Nasim · Umar · Javed</sub><br>
+<sub>📄 <i>ESMRMB 2025 · Marseille, France · Oct 8–11, 2025</i> · <a href="https://doi.org/10.1007/s10334-025-01278-8"><code>DOI 10.1007/s10334-025-01278-8</code></a></sub>
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Muhammad-Hassan-Farid&theme=prussian&hide_border=false" />
-</div>
-
-
----
-
-## 🏆 Achievements & Highlights
-
-- 🎓 Completed **BS Computer Science** from Hamdard University Islamabad and pursing **MS in Artificial Intelligence** from Comsats University Islamabad.
-- 🧠 **Healthcare AI Researcher** - Developing AI solutions for medical diagnosis
-- 📈 **Data Science Enthusiast** - Turning data into actionable insights
-- 🔬 **Machine Learning Practitioner** - Building intelligent systems
-- 🌟 **Open Source Contributor** - Sharing knowledge with the community
-- 🏅 **Kaggle Competitor** - Participating in data science competitions
-
----
-
-## 🤝 Let's Connect!
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hassanfarid004)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Hassan-Farid)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhassanfarid@gmail.com)
 
-</div>
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🎨 Current Focus
+**Deep Learning & AI**
 
-```python
-class MuhammadHassanFarid:
-    def __init__(self):
-        self.name = "Muhammad Hassan Farid"
-        self.role = "Data Scientist & AI Engineer"
-        self.location = "Islamabad, Pakistan"
-        self.education = "Hamdard University Islamabad"
-        
-    def current_work(self):
-        return [
-            "Building AI-powered healthcare solutions",
-            "Working on Advance RAG((Retrieval Augmented Generation)"
-            "Developing computer vision applications",
-            "Creating NLP models for text analysis",
-            "Contributing to open-source ML projects"
-        ]
-    
-    def future_goals(self):
-        return [
-            "Advance in Deep Learning research",
-            "Contribute to AI for social good",
-            "Build scalable ML systems",
-            "Mentor aspiring data scientists"
-        ]
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
-hassan = MuhammadHassanFarid()
-print("Always learning, always growing! 🚀")
-```
+**Computer Vision**
 
----
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00CFFF?style=for-the-badge&logoColor=black)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Hassan-Farid&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
+**LLMs & NLP**
 
-<div align="center">
-  <h3>⭐ If you find my work interesting, please consider giving a star to my repositories! ⭐</h3>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+**MLOps & Deployment**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 </div>
 
 ---
 
-*"Data is the new oil, but like oil, it's valuable only when refined into insights."* 📊✨
+## 🚀 Featured Projects
+
+<div align="center">
+<a href="https://github.com/Muhammad-Hassan-Farid/LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950" />
+</a>
+<a href="https://github.com/Muhammad-Hassan-Farid/Medi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=Medi&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Muhammad-Hassan-Farid/Lung-Tumor-Segmentation-With-UNET">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=Lung-Tumor-Segmentation-With-UNET&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950" />
+</a>
+<a href="https://github.com/Muhammad-Hassan-Farid/YoloV8n-for-Wast-Recycle-Plant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=YoloV8n-for-Wast-Recycle-Plant&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950" />
+</a>
+</div>
+
+<br/>
+
+| # | Project | Stack | Link |
+|---|---------|-------|------|
+| 🫁 | **Lung Cancer Detection** — CNN pipeline on CT scans *(FYP)* | `Python` `CNN` `OpenCV` | [→](https://github.com/Muhammad-Hassan-Farid/LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP) |
+| 🧠 | **Lung Tumor Segmentation U-Net** — Pixel-level CT segmentation | `PyTorch` `U-Net` | [→](https://github.com/Muhammad-Hassan-Farid/Lung-Tumor-Segmentation-With-UNET) |
+| 💬 | **Medi — AI Healthcare Chatbot** — RAG medical assistant on AWS | `LangChain` `OpenAI` `Docker` | [→](https://github.com/Muhammad-Hassan-Farid/Medi) |
+| ♻️ | **AI Waste Recycling Plant** — Real-time industrial classifier | `YOLOv8` `OpenCV` | [→](https://github.com/Muhammad-Hassan-Farid/YoloV8n-for-Wast-Recycle-Plant) |
+| 🩺 | **MelanoDetect AI** — Multi-class skin cancer detection | `TensorFlow` `CNN` | [→](https://github.com/Muhammad-Hassan-Farid/MelanoDetect-AI) |
+| 🏷️ | **BERT Fine-Tuning for NER** — Named Entity Recognition | `HuggingFace` `BERT` | [→](https://github.com/Muhammad-Hassan-Farid/Fine-Tuning-BERT-for-NER) |
+| 🧍 | **Posture Tracking** — Joint-angle monitoring via REST API | `MediaPipe` `Django` | [→](https://github.com/Muhammad-Hassan-Farid/Posture-Tracking-using-MediaPipe) |
+| 🛡️ | **Web-Based IDS** — Deep learning intrusion detection | `Python` `DL` | [→](https://github.com/Muhammad-Hassan-Farid/Web-Base-Intrusion-Detection-System-IDS-Using-DL) |
+| 💳 | **Credit Card Dashboard** — Financial analytics & trends | `Power BI` | [→](https://github.com/Muhammad-Hassan-Farid/Credit-Card-Financial-Dashboard) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-Farid&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&background=0d1117"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hassan-Farid&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&title_color=58a6ff"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Muhammad-Hassan-Farid/Muhammad-Hassan-Farid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</div>
+
+> **Note:** To enable the snake animation, create a GitHub Action in `.github/workflows/snake.yml`:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{cron: "0 0 * * *"}]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: Muhammad-Hassan-Farid
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with: {target_branch: output, build_dir: dist}
+>         env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+> ```
+
+---
+
+## 🏆 Honors & Certifications
+
+<div align="center">
+
+| 🏅 Award | Year |
+|----------|------|
+| **INNOVATE PAKISTAN × DevQuest** — AI Automation & Agentic AI | `2026` |
+| **IEEE Islamabad CIS Industry Gala** — Organizer | `2023` |
+| **VISIO SPARK Coding Competition** — Top 9th Rank | `2023` |
+
+| 📜 Certification | Issuer | Year |
+|-----------------|--------|------|
+| OpenCV Bootcamp *(Grade: 100%)* | OpenCV University | `2026` |
+| Intro to Prompt Engineering | SimpleLearn SkillUP | `2025` |
+| Python Essential 1 | CISCO | `2024` |
+| Python for Machine Learning | Udemy | `2023` |
+| Data Analysis Using Python | 10 Pearls University | `2023` |
+| SQL Intermediate Certified | HackerRank | `2023` |
+| Professional Google Data Analytics | Coursera — Google | `2022` |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20is%20the%20new%20oil%20%E2%80%94%20but%20only%20valuable%20when%20refined%20into%20insight.&author=Muhammad%20Hassan%20Farid"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:185FA5,70:0c2340,100:0d1117&height=100&section=footer" width="100%"/>
