@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:001a1a,55:006666,85:00ffcc,100:0d1117&height=400&section=header&text=Muhammad%20Hassan%20Farid&fontSize=48&fontColor=e0fff8&fontAlignY=52&fontStyle=bold&desc=AI%20Researcher%20%20%C2%B7%20%20Computer%20Vision%20Engineer&descAlignY=65&descSize=17&descColor=00ffcc&animation=fadeIn&fontFamily=JetBrains+Mono" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:001a1a,55:006666,85:00ffcc,100:0d1117&height=400&section=header&text=Muhammad%20Hassan%20Farid&fontSize=48&fontColor=e0fff8&fontAlignY=52&fontStyle=bold&desc=AI%20Researcher%20%20%C2%B7%20%20Computer%20Vision%20Engineer%20%20%C2%B7%20%20Islamabad%2C%20PK%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=65&descSize=17&descColor=00ffcc&animation=fadeIn&fontFamily=JetBrains+Mono" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Senior+CV+Developer+%40+Visual+Computing+Technologies;MS+Artificial+Intelligence+%E2%80%94+COMSATS+University;Medical+AI+%7C+Computer+Vision+%7C+RAG+%7C+LLMs;2%C3%97+Peer-Reviewed+Published+Researcher;Building+AI+That+Actually+Matters+%F0%9F%9A%80" />
 
