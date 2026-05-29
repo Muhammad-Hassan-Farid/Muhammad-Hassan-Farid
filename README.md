@@ -1,275 +1,378 @@
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 1 · HEADER BANNER                                                  -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:001a1a,55:006666,85:00ffcc,100:0d1117&height=400&section=header&text=Muhammad%20Hassan%20Farid&fontSize=48&fontColor=e0fff8&fontAlignY=52&fontStyle=bold&desc=AI%20Researcher%20%20%C2%B7%20%20Computer%20Vision%20Engineer%20%20%C2%B7%20%20Islamabad%2C%20PK%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=65&descSize=17&descColor=00ffcc&animation=fadeIn&fontFamily=JetBrains+Mono" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Muhammad Hassan Farid — AI Researcher · Senior Computer Vision Developer · Islamabad, Pakistan" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Senior+CV+Developer+%40+Visual+Computing+Technologies;MS+Artificial+Intelligence+%E2%80%94+COMSATS+University;Medical+AI+%7C+Computer+Vision+%7C+RAG+%7C+LLMs;2%C3%97+Peer-Reviewed+Published+Researcher;Building+AI+That+Actually+Matters+%F0%9F%9A%80" />
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 2 · ANIMATED TYPING SUBLINE                                        -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<br/>
+<a href="https://github.com/Muhammad-Hassan-Farid">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1100&color=00FFCC&center=true&vCenter=true&width=640&height=38&lines=Senior%20CV%20Developer%20%40%20Visual%20Computing%20Technologies;MS%20Artificial%20Intelligence%20%E2%80%94%20COMSATS%20University;Medical%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20RAG%20%C2%B7%20LLMs;2%C3%97%20Peer-Reviewed%20Published%20Researcher;Building%20AI%20that%20actually%20matters%20%F0%9F%9A%80"
+    alt="Typing animation describing my work"
+  />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Hassan-Farid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hassan-farid)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/hassanfarid004)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0177-5869)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadhassanfarid04@gmail.com)
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 3 · SOCIAL & STATUS BADGES                                         -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<br/>
+<p>
+  <a href="https://github.com/Muhammad-Hassan-Farid"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3&labelColor=0d1117" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-hassan-farid"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/hassanfarid004"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0d1117" alt="Kaggle" /></a>
+  <a href="https://orcid.org/0009-0000-0177-5869"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0d1117" alt="ORCID" /></a>
+  <a href="mailto:muhammadhassanfarid04@gmail.com"><img src="https://img.shields.io/badge/Email-00ffcc?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117&color=00ffcc" alt="Email" /></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Hassan-Farid&color=58a6ff&style=flat-square&label=Profile+Views)&nbsp;
-![Followers](https://img.shields.io/github/followers/Muhammad-Hassan-Farid?style=flat-square&color=3fb950&labelColor=161b22&label=Followers)&nbsp;
-![Stars](https://img.shields.io/github/stars/Muhammad-Hassan-Farid?style=flat-square&color=e3b341&labelColor=161b22&label=Total+Stars)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Hassan-Farid&style=for-the-badge&color=00ffcc&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Muhammad-Hassan-Farid?style=for-the-badge&logo=github&logoColor=58a6ff&label=FOLLOWERS&color=58a6ff&labelColor=0d1117" alt="Followers" />
+</p>
 
 </div>
 
----
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 4 · WHO AM I                                                       -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 ```python
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-# $ python3 whoami.py
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 class MuhammadHassanFarid:
-    role      = "AI Researcher  ·  Senior Computer Vision Developer"
-    location  = "Islamabad, Pakistan 🇵🇰"
-    education = {
-        "MS Artificial Intelligence" : "COMSATS University  (2024 – Present)",
-        "BS Computer Science"        : "Hamdard University  (2020 – 2024)",
-    }
-    research  = ["Medical Imaging", "RAG & Agentic AI", "Real-Time CV", "LLMs", "Federated Learning"]
-    currently = "Senior CV Developer @ Visual Computing Technologies"
-    open_to   = "Research Collaborations & Impactful Opportunities"
+    def __init__(self):
+        self.role        = "AI Researcher · Senior Computer Vision Developer"
+        self.location    = "Islamabad, Pakistan 🇵🇰"
+        self.education   = {
+            "MS Artificial Intelligence": "COMSATS University (2024 – Present)",
+            "BS Computer Science":        "Hamdard University (2020 – 2024)",
+        }
+        self.research_interests = [
+            "Computer Vision", "Medical AI", "LLMs", "RAG",
+            "Agentic AI", "Federated Learning",
+        ]
+        self.current_focus = "Diagnostic vision models + production-grade LLM systems"
+        self.open_to       = ["Research collaboration", "CV/ML consulting", "Co-authoring"]
+
+    def say_hi(self):
+        return "Let's build AI that actually matters."
 ```
 
----
+<div align="center"><img src="assets/rule.svg" width="100%" alt="" /></div>
 
-## 🧠 About Me
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 5 · ABOUT ME                                                       -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-> I build AI that has a real-world impact — from detecting tumors in MRI scans to deploying production RAG systems.
-> My work sits at the intersection of **Computer Vision**, **Medical AI**, and **Large Language Models**.
-> I believe in shipping, publishing, and constantly pushing the boundary of what's possible with Python and a GPU.
+## `01` · About Me
+
+> I build computer-vision and language systems that move from the notebook to the clinic and the production server. My work sits where peer-reviewed research meets shipped software — medical imaging, diagnostics, and applied LLM tooling. I care about models that earn trust, not just leaderboard scores.
+
+| Area | Focus |
+| :--- | :--- |
+| 🔬 **Research** | Medical AI, Federated Learning, NLP |
+| 👁️ **Vision** | Detection, Segmentation, Tracking |
+| 🤖 **LLMs** | RAG, Agentic AI, LangChain, OpenAI |
+| 🏥 **Healthcare AI** | MRI, CT Scan, Skin/Lung Cancer Diagnostics |
+
+<div align="center"><img src="assets/rule.svg" width="100%" alt="" /></div>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 6 · EXPERIENCE TIMELINE                                            -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## `02` · Experience
+
+```text
+Apr 2026 ─ Now        ● Co-Founder & Chief AI Officer
+                        Tech Prime Pvt. Ltd.  ·  Remote
+
+Mar 2026 ─ Now        ● Senior Computer Vision Developer
+                        Visual Computing Technologies  ·  Remote
+
+Nov 2024 ─ Now        ● Lab Engineer
+                        Abasyn University Islamabad
+
+Feb 2025 ─ Feb 2026   ○ Research & Development Engineer
+                        UTech Innovative Solutions  ·  Hong Kong
+
+May 2024 ─ Jun 2024   ○ Data Scientist & Analyst II
+                        Prodigy InfoTech
+```
+
+<div align="center"><img src="assets/rule.svg" width="100%" alt="" /></div>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 7 · PUBLICATIONS                                                   -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## `03` · Publications
 
 <table>
 <tr>
-<td>🔬 <b>Research</b></td><td>Medical AI · Federated Learning · NLP</td>
+<td valign="top" align="center"><img src="https://img.shields.io/badge/2026-00ffcc?style=for-the-badge&labelColor=0d1117" alt="2026" /></td>
+<td valign="top">
+
+**Human Capital and Well-Being Meter Based on Federated Learning Powered Sentiment Analysis**
+Shaheer, Nazar, Arooj, **Hassan Farid**, et al.
+*International Journal of Social Sciences Bulletin*
+DOI: [10.5281/zenodo.18513303](https://doi.org/10.5281/zenodo.18513303)
+
+</td>
 </tr>
 <tr>
-<td>👁️ <b>Vision</b></td><td>Detection · Segmentation · Tracking · Real-Time CV</td>
-</tr>
-<tr>
-<td>🤖 <b>LLMs</b></td><td>RAG Pipelines · Agentic AI · LangChain · OpenAI API</td>
-</tr>
-<tr>
-<td>🏥 <b>Healthcare AI</b></td><td>MRI · CT Scan · Skin · Lung Cancer Diagnostics</td>
+<td valign="top" align="center"><img src="https://img.shields.io/badge/2025-58a6ff?style=for-the-badge&labelColor=0d1117" alt="2025" /></td>
+<td valign="top">
+
+**Enhancing Conventional CNNs with Compound Scaling for Brain Tumor Detection in MRI**
+**Hassan Farid**, Nasim, Umar, Javed
+*ESMRMB 2025 · Marseille, France · Oct 8–11, 2025*
+DOI: [10.1007/s10334-025-01278-8](https://doi.org/10.1007/s10334-025-01278-8)
+
+</td>
 </tr>
 </table>
 
----
+<div align="center"><img src="assets/rule.svg" width="100%" alt="" /></div>
 
-## 💼 Experience
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 8 · TECH STACK                                                     -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<img align="right" src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-3fb950?style=flat-square"/>
-
-```
- Mar 2026 – Now     ●  Senior Computer Vision Developer
-                       Visual Computing Technologies  ·  Remote
-
- Nov 2024 – Now     ●  Lab Engineer
-                       Abasyn University Islamabad Campus
-
- Feb 2025 – Feb 2026   Research & Development Engineer
-                       UTech Innovative Solutions  ·  Hong Kong, Remote
-
- May – Jun 2024        Data Scientist & Analyst II
-                       Prodigy InfoTech  ·  Remote
-```
-
----
-
-## 📝 Publications
+## `04` · Tech Stack
 
 <table>
 <tr>
-<td align="center" width="56"><img src="https://img.shields.io/badge/2026-58a6ff?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+<td><b>Languages</b></td>
 <td>
-<b>Human Capital and Well-Being Meter Based on Federated Learning Powered Sentiment Analysis</b><br>
-<sub>Shaheer · Nazar · Arooj · <b>Hassan Farid</b> · Inam-Ur-Rehman · Riaz · Malik · Abbas · Ishaq</sub><br>
-<sub>📄 <i>International Journal of Social Sciences Bulletin</i> · <a href="https://doi.org/10.5281/zenodo.18513303"><code>DOI 10.5281/zenodo.18513303</code></a></sub>
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white&labelColor=161b22" alt="Python" />
+<img src="https://img.shields.io/badge/C++-161b22?style=flat-square&logo=cplusplus&logoColor=white&labelColor=161b22" alt="C++" />
+<img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=white&labelColor=161b22" alt="SQL" />
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white&labelColor=161b22" alt="JavaScript" />
 </td>
 </tr>
 <tr>
-<td align="center" width="56"><img src="https://img.shields.io/badge/2025-3fb950?style=flat-square&labelColor=0d1117&color=3fb950"/></td>
+<td><b>Deep Learning&nbsp;&amp;&nbsp;AI</b></td>
 <td>
-<b>Enhancing Conventional CNNs with Compound Scaling for Brain Tumor Detection in MRI</b><br>
-<sub><b>Hassan Farid</b> · Nasim · Umar · Javed</sub><br>
-<sub>📄 <i>ESMRMB 2025 · Marseille, France · Oct 8–11, 2025</i> · <a href="https://doi.org/10.1007/s10334-025-01278-8"><code>DOI 10.1007/s10334-025-01278-8</code></a></sub>
+<img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=white&labelColor=161b22" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=white&labelColor=161b22" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-161b22?style=flat-square&logo=keras&logoColor=white&labelColor=161b22" alt="Keras" />
+<img src="https://img.shields.io/badge/Scikit--Learn-161b22?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=161b22" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/Hugging%20Face-161b22?style=flat-square&logo=huggingface&logoColor=white&labelColor=161b22" alt="Hugging Face" />
+</td>
+</tr>
+<tr>
+<td><b>Computer Vision</b></td>
+<td>
+<img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=white&labelColor=161b22" alt="OpenCV" />
+<img src="https://img.shields.io/badge/YOLOv8-161b22?style=flat-square&logo=ultralytics&logoColor=white&labelColor=161b22" alt="YOLOv8" />
+<img src="https://img.shields.io/badge/MediaPipe-161b22?style=flat-square&logo=mediapipe&logoColor=white&labelColor=161b22" alt="MediaPipe" />
+</td>
+</tr>
+<tr>
+<td><b>LLMs&nbsp;&amp;&nbsp;NLP</b></td>
+<td>
+<img src="https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=white&labelColor=161b22" alt="LangChain" />
+<img src="https://img.shields.io/badge/OpenAI-161b22?style=flat-square&logo=openai&logoColor=white&labelColor=161b22" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Pinecone-161b22?style=flat-square&logo=pinecone&logoColor=white&labelColor=161b22" alt="Pinecone" />
+<img src="https://img.shields.io/badge/Pydantic-161b22?style=flat-square&logo=pydantic&logoColor=white&labelColor=161b22" alt="Pydantic" />
+</td>
+</tr>
+<tr>
+<td><b>MLOps&nbsp;&amp;&nbsp;Deploy</b></td>
+<td>
+<img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white&labelColor=161b22" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=white&labelColor=161b22" alt="AWS" />
+<img src="https://img.shields.io/badge/Flask-161b22?style=flat-square&logo=flask&logoColor=white&labelColor=161b22" alt="Flask" />
+<img src="https://img.shields.io/badge/Django-161b22?style=flat-square&logo=django&logoColor=white&labelColor=161b22" alt="Django" />
+<img src="https://img.shields.io/badge/MLflow-161b22?style=flat-square&logo=mlflow&logoColor=white&labelColor=161b22" alt="MLflow" />
+</td>
+</tr>
+<tr>
+<td><b>Data&nbsp;&amp;&nbsp;Viz</b></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-161b22?style=flat-square&logo=pandas&logoColor=white&labelColor=161b22" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-161b22?style=flat-square&logo=numpy&logoColor=white&labelColor=161b22" alt="NumPy" />
+<img src="https://img.shields.io/badge/Plotly-161b22?style=flat-square&logo=plotly&logoColor=white&labelColor=161b22" alt="Plotly" />
+<img src="https://img.shields.io/badge/Power%20BI-161b22?style=flat-square&logo=powerbi&logoColor=white&labelColor=161b22" alt="Power BI" />
 </td>
 </tr>
 </table>
 
----
+<div align="center"><img src="assets/rule.svg" width="100%" alt="" /></div>
 
-## 🛠️ Tech Stack
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 9 · FEATURED PROJECTS                                              -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Deep Learning & AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Computer Vision**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00CFFF?style=for-the-badge&logoColor=black)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-
-**LLMs & NLP**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000?style=for-the-badge&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-**MLOps & Deployment**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Featured Projects
+## `05` · Featured Projects
 
 <div align="center">
+
 <a href="https://github.com/Muhammad-Hassan-Farid/LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00ffcc" alt="Lung Cancer Detection FYP" />
 </a>
 <a href="https://github.com/Muhammad-Hassan-Farid/Medi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=Medi&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=Medi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00ffcc" alt="Medi" />
 </a>
-
-<br/><br/>
-
+<br/>
 <a href="https://github.com/Muhammad-Hassan-Farid/Lung-Tumor-Segmentation-With-UNET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=Lung-Tumor-Segmentation-With-UNET&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=Lung-Tumor-Segmentation-With-UNET&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00ffcc" alt="Lung Tumor Segmentation U-Net" />
 </a>
 <a href="https://github.com/Muhammad-Hassan-Farid/YoloV8n-for-Wast-Recycle-Plant">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=YoloV8n-for-Wast-Recycle-Plant&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=YoloV8n-for-Wast-Recycle-Plant&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00ffcc" alt="YOLOv8 Waste Recycling" />
 </a>
+
 </div>
 
 <br/>
 
-| # | Project | Stack | Link |
-|---|---------|-------|------|
-| 🫁 | **Lung Cancer Detection** — CNN pipeline on CT scans *(FYP)* | `Python` `CNN` `OpenCV` | [→](https://github.com/Muhammad-Hassan-Farid/LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP) |
-| 🧠 | **Lung Tumor Segmentation U-Net** — Pixel-level CT segmentation | `PyTorch` `U-Net` | [→](https://github.com/Muhammad-Hassan-Farid/Lung-Tumor-Segmentation-With-UNET) |
-| 💬 | **Medi — AI Healthcare Chatbot** — RAG medical assistant on AWS | `LangChain` `OpenAI` `Docker` | [→](https://github.com/Muhammad-Hassan-Farid/Medi) |
-| ♻️ | **AI Waste Recycling Plant** — Real-time industrial classifier | `YOLOv8` `OpenCV` | [→](https://github.com/Muhammad-Hassan-Farid/YoloV8n-for-Wast-Recycle-Plant) |
-| 🩺 | **MelanoDetect AI** — Multi-class skin cancer detection | `TensorFlow` `CNN` | [→](https://github.com/Muhammad-Hassan-Farid/MelanoDetect-AI) |
-| 🏷️ | **BERT Fine-Tuning for NER** — Named Entity Recognition | `HuggingFace` `BERT` | [→](https://github.com/Muhammad-Hassan-Farid/Fine-Tuning-BERT-for-NER) |
-| 🧍 | **Posture Tracking** — Joint-angle monitoring via REST API | `MediaPipe` `Django` | [→](https://github.com/Muhammad-Hassan-Farid/Posture-Tracking-using-MediaPipe) |
-| 🛡️ | **Web-Based IDS** — Deep learning intrusion detection | `Python` `DL` | [→](https://github.com/Muhammad-Hassan-Farid/Web-Base-Intrusion-Detection-System-IDS-Using-DL) |
-| 💳 | **Credit Card Dashboard** — Financial analytics & trends | `Power BI` | [→](https://github.com/Muhammad-Hassan-Farid/Credit-Card-Financial-Dashboard) |
+| | Project | Description | Stack | Link |
+| :---: | :--- | :--- | :--- | :---: |
+| 🩺 | **Medi** | LLM-powered medical assistant for clinical Q&A and triage | LangChain · OpenAI · RAG | [Repo](https://github.com/Muhammad-Hassan-Farid/Medi) |
+| 🫁 | **Lung Tumor U-Net** | Volumetric lung-tumor segmentation on CT scans | PyTorch · U-Net · MONAI | [Repo](https://github.com/Muhammad-Hassan-Farid/Lung-Tumor-Segmentation-With-UNET) |
+| 🔬 | **Lung Cancer FYP** | End-to-end ML pipeline for lung-cancer detection (final-year project) | Scikit-Learn · Pandas · Flask | [Repo](https://github.com/Muhammad-Hassan-Farid/LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP) |
+| 🧴 | **MelanoDetect AI** | Skin-lesion / melanoma classification from dermoscopic images | TensorFlow · Keras · CNN | [Repo](https://github.com/Muhammad-Hassan-Farid?tab=repositories) |
+| 🏷️ | **BERT NER** | Named-entity recognition fine-tuned on transformer embeddings | Hugging Face · BERT · PyTorch | [Repo](https://github.com/Muhammad-Hassan-Farid?tab=repositories) |
+| ♻️ | **YOLOv8 Waste Recycling** | Real-time waste sorting for a recycling plant | YOLOv8 · OpenCV · Ultralytics | [Repo](https://github.com/Muhammad-Hassan-Farid/YoloV8n-for-Wast-Recycle-Plant) |
+| 🧘 | **Posture Tracking** | Live posture analysis API with pose landmarks | MediaPipe · Django REST | [Repo](https://github.com/Muhammad-Hassan-Farid?tab=repositories) |
+| 🛡️ | **Web-Based IDS** | Intrusion-detection system with ML traffic classification | Python · Scikit-Learn · Flask | [Repo](https://github.com/Muhammad-Hassan-Farid?tab=repositories) |
+| 📊 | **Credit Card Financial Dashboard** | Interactive financial analytics dashboard | Power BI · SQL · DAX | [Repo](https://github.com/Muhammad-Hassan-Farid?tab=repositories) |
 
----
+<div align="center"><img src="assets/rule.svg" width="100%" alt="" /></div>
 
-## 📊 GitHub Stats
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 10 · GITHUB STATS                                                  -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## `06` · GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&count_private=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=00ffcc&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-Farid&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&background=0d1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-Farid&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=00ffcc&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="Streak stats" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hassan-Farid&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&title_color=58a6ff"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hassan-Farid&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies" />
 
 </div>
 
----
+<div align="center"><img src="assets/rule.svg" width="100%" alt="" /></div>
 
-## 🐍 Contribution Graph
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 11 · CONTRIBUTION SNAKE                                            -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## `07` · Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Muhammad-Hassan-Farid/Muhammad-Hassan-Farid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Hassan-Farid/Muhammad-Hassan-Farid/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Hassan-Farid/Muhammad-Hassan-Farid/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Muhammad-Hassan-Farid/Muhammad-Hassan-Farid/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
-> **Note:** To enable the snake animation, create a GitHub Action in `.github/workflows/snake.yml`:
+> **Enable the snake** — create `.github/workflows/snake.yml` in this repo and paste:
+>
 > ```yaml
-> name: Generate Snake
+> name: Generate Snake Animation
+>
 > on:
->   schedule: [{cron: "0 0 * * *"}]
+>   schedule:
+>     - cron: "0 */12 * * *"   # every 12 hours
 >   workflow_dispatch:
+>   push:
+>     branches: [main]
+>
+> permissions:
+>   contents: write
+>
 > jobs:
 >   generate:
 >     runs-on: ubuntu-latest
 >     steps:
->       - uses: Platane/snk@v3
+>       - name: Generate snake SVGs
+>         uses: Platane/snk@v3
 >         with:
->           github_user_name: Muhammad-Hassan-Farid
+>           github_user_name: ${{ github.repository_owner }}
 >           outputs: |
 >             dist/github-contribution-grid-snake.svg
 >             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with: {target_branch: output, build_dir: dist}
->         env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}
+>
+>       - name: Push to output branch
+>         uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 > ```
 
----
+<div align="center"><img src="assets/rule.svg" width="100%" alt="" /></div>
 
-## 🏆 Honors & Certifications
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 12 · HONORS & CERTIFICATIONS                                       -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## `08` · Honors & Certifications
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🥇 Awards
+
+- **INNOVATE PAKISTAN × DevQuest** — AI Automation & Agentic AI · *2026*
+- **IEEE Islamabad CIS Industry Gala** — Organizer · *2023*
+- **VISIO SPARK Coding Competition** — Top 9th · *2023*
+
+</td>
+<td valign="top" width="50%">
+
+### 📜 Certifications
+
+- **OpenCV Bootcamp (100%)** — OpenCV University · *2026*
+- **Intro to Prompt Engineering** — SimpleLearn SkillUP · *2025*
+- **Python Essential 1** — CISCO · *2024*
+- **Python for Machine Learning** — Udemy · *2023*
+- **Data Analysis Using Python** — 10 Pearls University · *2023*
+- **SQL (Intermediate)** — HackerRank · *2023*
+- **Google Data Analytics (Professional)** — Coursera / Google · *2022*
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="assets/rule.svg" width="100%" alt="" /></div>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 13 · CLOSING QUOTE                                                 -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-| 🏅 Award | Year |
-|----------|------|
-| **INNOVATE PAKISTAN × DevQuest** — AI Automation & Agentic AI | `2026` |
-| **IEEE Islamabad CIS Industry Gala** — Organizer | `2023` |
-| **VISIO SPARK Coding Competition** — Top 9th Rank | `2023` |
-
-| 📜 Certification | Issuer | Year |
-|-----------------|--------|------|
-| OpenCV Bootcamp *(Grade: 100%)* | OpenCV University | `2026` |
-| Intro to Prompt Engineering | SimpleLearn SkillUP | `2025` |
-| Python Essential 1 | CISCO | `2024` |
-| Python for Machine Learning | Udemy | `2023` |
-| Data Analysis Using Python | 10 Pearls University | `2023` |
-| SQL Intermediate Certified | HackerRank | `2023` |
-| Professional Google Data Analytics | Coursera — Google | `2022` |
+> ### *"Data is the new oil — but only valuable when refined into insight."*
+>
+> **— Muhammad Hassan Farid**
 
 </div>
 
----
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!-- 14 · FOOTER                                                        -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20is%20the%20new%20oil%20%E2%80%94%20but%20only%20valuable%20when%20refined%20into%20insight.&author=Muhammad%20Hassan%20Farid"/>
+<img src="assets/footer.svg" width="100%" alt="Let's build AI that actually matters." />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:001a1a,55:006666,85:00ffcc,100:0d1117&height=100&section=footer" width="100%"/>
