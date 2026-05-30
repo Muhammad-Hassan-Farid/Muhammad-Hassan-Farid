@@ -231,16 +231,10 @@ DOI: [10.1007/s10334-025-01278-8](https://doi.org/10.1007/s10334-025-01278-8)
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hassan-Farid&show_icons=true&count_private=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=00ffcc&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hassan-Farid&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hassan-Farid&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=00ffcc&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="Streak stats" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hassan-Farid&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies" />
 
 </div>
 
