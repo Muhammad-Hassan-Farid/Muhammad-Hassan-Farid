@@ -209,26 +209,6 @@ DOI: [10.1007/s10334-025-01278-8](https://doi.org/10.1007/s10334-025-01278-8)
 
 ## `05` · Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Muhammad-Hassan-Farid/LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=LUNG-CANCER-DETECTION-USING-MACHINE-LEARNING-FYP&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00ffcc" alt="Lung Cancer Detection FYP" />
-</a>
-<a href="https://github.com/Muhammad-Hassan-Farid/Medi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=Medi&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00ffcc" alt="Medi" />
-</a>
-<br/>
-<a href="https://github.com/Muhammad-Hassan-Farid/Lung-Tumor-Segmentation-With-UNET">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=Lung-Tumor-Segmentation-With-UNET&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00ffcc" alt="Lung Tumor Segmentation U-Net" />
-</a>
-<a href="https://github.com/Muhammad-Hassan-Farid/YoloV8n-for-Wast-Recycle-Plant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Hassan-Farid&repo=YoloV8n-for-Wast-Recycle-Plant&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=00ffcc" alt="YOLOv8 Waste Recycling" />
-</a>
-
-</div>
-
-<br/>
-
 | | Project | Description | Stack | Link |
 | :---: | :--- | :--- | :--- | :---: |
 | 🩺 | **Medi** | LLM-powered medical assistant for clinical Q&A and triage | LangChain · OpenAI · RAG | [Repo](https://github.com/Muhammad-Hassan-Farid/Medi) |
