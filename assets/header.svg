@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="Muhammad Hassan Farid — AI Researcher and Senior Computer Vision Developer">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ffcc"></stop>
+      <stop offset="0.5" stop-color="#2dd4bf"></stop>
+      <stop offset="1" stop-color="#58a6ff"></stop>
+    </linearGradient>
+    <linearGradient id="ruleFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ffcc" stop-opacity="0"></stop>
+      <stop offset="0.15" stop-color="#00ffcc" stop-opacity="1"></stop>
+      <stop offset="0.85" stop-color="#58a6ff" stop-opacity="1"></stop>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00ffcc" stop-opacity="0.10"></stop>
+      <stop offset="1" stop-color="#00ffcc" stop-opacity="0"></stop>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#1a2230"></circle>
+    </pattern>
+    <clipPath id="card">
+      <rect x="1" y="1" width="1278" height="358" rx="20"></rect>
+    </clipPath>
+  </defs>
+
+  
+  <rect x="1" y="1" width="1278" height="358" rx="20" fill="#0d1117" stroke="#222b38" stroke-width="1.5"></rect>
+  <g clip-path="url(#card)">
+    <rect x="1" y="1" width="1278" height="358" fill="url(#dots)"></rect>
+    <rect x="1" y="1" width="1278" height="200" fill="url(#glow)"></rect>
+    
+    <rect x="1" y="1" width="6" height="358" fill="url(#accent)"></rect>
+
+    
+    <circle cx="48" cy="42" r="7" fill="#ff5f56"></circle>
+    <circle cx="74" cy="42" r="7" fill="#febc2e"></circle>
+    <circle cx="100" cy="42" r="7" fill="#28c840"></circle>
+    <text x="132" y="47" font-family="ui-monospace,&#39;JetBrains Mono&#39;,&#39;SF Mono&#39;,Menlo,monospace" font-size="15" fill="#586069">muhammad-hassan-farid — profile/README.md</text>
+    <line x1="24" y1="74" x2="1256" y2="74" stroke="#1c2531" stroke-width="1"></line>
+
+    
+    <text x="64" y="128" font-family="ui-monospace,&#39;JetBrains Mono&#39;,&#39;SF Mono&#39;,Menlo,monospace" font-size="17" fill="#6e7681"><tspan fill="#00ffcc">~</tspan> <tspan fill="#58a6ff">whoami</tspan> <tspan fill="#3a4452">--role --focus</tspan></text>
+
+    
+    <text x="62" y="196" font-family="ui-monospace,&#39;JetBrains Mono&#39;,&#39;SF Mono&#39;,Menlo,monospace" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#e6edf3">Muhammad Hassan Farid<tspan dx="6" fill="#00ffcc">_</tspan></text>
+
+    
+    <rect x="66" y="216" width="430" height="3" rx="1.5" fill="url(#ruleFade)"></rect>
+
+    
+    <text x="66" y="256" font-family="ui-monospace,&#39;JetBrains Mono&#39;,&#39;SF Mono&#39;,Menlo,monospace" font-size="23" font-weight="500" fill="#9aa6b2">AI Researcher <tspan fill="#3a4452">·</tspan> Senior Computer Vision Developer</text>
+
+    
+    <text x="66" y="294" font-family="ui-monospace,&#39;JetBrains Mono&#39;,&#39;SF Mono&#39;,Menlo,monospace" font-size="16" fill="#6e7681"><tspan fill="#00ffcc">◍</tspan> Islamabad, Pakistan <tspan fill="#2a323e">  |  </tspan> Medical AI <tspan fill="#3a4452">·</tspan> Computer Vision <tspan fill="#3a4452">·</tspan> RAG <tspan fill="#3a4452">·</tspan> LLMs <tspan fill="#3a4452">·</tspan> Federated Learning</text>
+
+    
+    <g transform="translate(1136,104)">
+      <rect x="0" y="0" width="26" height="26" rx="4" fill="#00ffcc" opacity="0.92"></rect>
+      <rect x="32" y="0" width="26" height="26" rx="4" fill="#58a6ff" opacity="0.55"></rect>
+      <rect x="64" y="0" width="26" height="26" rx="4" fill="#1c2531"></rect>
+      <rect x="0" y="32" width="26" height="26" rx="4" fill="#58a6ff" opacity="0.3"></rect>
+      <rect x="32" y="32" width="26" height="26" rx="4" fill="#3fb950" opacity="0.85"></rect>
+      <rect x="64" y="32" width="26" height="26" rx="4" fill="#2dd4bf" opacity="0.6"></rect>
+      <rect x="0" y="64" width="26" height="26" rx="4" fill="#1c2531"></rect>
+      <rect x="32" y="64" width="26" height="26" rx="4" fill="#2dd4bf" opacity="0.4"></rect>
+      <rect x="64" y="64" width="26" height="26" rx="4" fill="#00ffcc" opacity="0.9"></rect>
+    </g>
+
+    
+    <text x="1216" y="316" text-anchor="end" font-family="ui-monospace,&#39;JetBrains Mono&#39;,&#39;SF Mono&#39;,Menlo,monospace" font-size="14.5" fill="#3fb950"><tspan font-size="13">●</tspan> open to research collaboration</text>
+  </g>
+</svg>

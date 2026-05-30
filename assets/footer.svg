@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 150" width="1280" height="150" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="faccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00ffcc" stop-opacity="0"></stop>
+      <stop offset="0.5" stop-color="#2dd4bf"></stop>
+      <stop offset="1" stop-color="#58a6ff" stop-opacity="0"></stop>
+    </linearGradient>
+    <linearGradient id="fglow" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#00ffcc" stop-opacity="0.10"></stop>
+      <stop offset="1" stop-color="#00ffcc" stop-opacity="0"></stop>
+    </linearGradient>
+    <pattern id="fdots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#1a2230"></circle>
+    </pattern>
+    <clipPath id="fcard">
+      <rect x="1" y="1" width="1278" height="148" rx="20"></rect>
+    </clipPath>
+  </defs>
+  <rect x="1" y="1" width="1278" height="148" rx="20" fill="#0d1117" stroke="#222b38" stroke-width="1.5"></rect>
+  <g clip-path="url(#fcard)">
+    <rect x="1" y="1" width="1278" height="148" fill="url(#fdots)"></rect>
+    <rect x="1" y="80" width="1278" height="69" fill="url(#fglow)"></rect>
+    <rect x="440" y="52" width="400" height="2" fill="url(#faccent)"></rect>
+    <text x="640" y="92" text-anchor="middle" font-family="ui-monospace,&#39;JetBrains Mono&#39;,&#39;SF Mono&#39;,Menlo,monospace" font-size="18" fill="#9aa6b2"><tspan fill="#00ffcc">$</tspan> echo <tspan fill="#e6edf3">&#34;Let&#39;s build AI that actually matters.&#34;</tspan></text>
+    <text x="640" y="120" text-anchor="middle" font-family="ui-monospace,&#39;JetBrains Mono&#39;,&#39;SF Mono&#39;,Menlo,monospace" font-size="13.5" fill="#586069">muhammadhassanfarid04@gmail.com  ·  Islamabad, Pakistan</text>
+  </g>
+</svg>
